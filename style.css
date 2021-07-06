@@ -101,20 +101,24 @@ section{
         padding: 10px 220px;
     }
 
-.page1 {
+.new2{
     display: flex;
-}
-.page1 img{
     
 }
+
+
+
+
+
+
 .footer{
     background-color: black;
-    margin-top: 70px;
+    margin-top: 100px;
 }
 .footer h1 {
     text-align: center;
     color: white;
-
+    padding-top: 40px;
 }
 .footer p{
     text-align: center;
